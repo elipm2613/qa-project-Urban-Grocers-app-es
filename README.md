@@ -1,5 +1,4 @@
-# Sprint 7
-## _Qa-project-Urban-Grocers-app-es_
+# QA Project: Urban Grocers
 
 ## Creación de un kit para el usuario o usuaria
 
